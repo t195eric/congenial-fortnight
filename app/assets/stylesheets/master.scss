@@ -1,5 +1,9 @@
 @import "bootstrap";
 
+@-ms-viewport{
+  width: device-width;
+}
+
 .clear{
 clear: both;
 }
